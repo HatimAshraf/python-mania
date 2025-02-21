@@ -1,6 +1,6 @@
 # Python Projects
 
-This repository contains three different Python programs that you can explore and use. These projects are simple yet fun, designed to help practice and enhance Python programming skills.
+This repository contains different Python programs that you can explore and use. These projects are simple yet fun, designed to help practice and enhance Python programming skills.
 
 ## Programs Included
 
